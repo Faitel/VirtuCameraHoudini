@@ -1,0 +1,12 @@
+{
+    "enable" : true,
+    "path": "$HOUDINI_USER_PREF_DIR/virtucamera",
+    "env": [
+            
+            {
+                "var":   "HOUDINI_PATH",
+                "value": "$HOUDINI_USER_PREF_DIR/virtucamera"
+            }
+           
+           ]
+}
